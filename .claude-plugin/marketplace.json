@@ -15,10 +15,10 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/xlsx",
-        "./skills/docx",
-        "./skills/pptx",
-        "./skills/pdf"
+        "./skills/spreadsheet-processor",
+        "./skills/word-document-processor",
+        "./skills/presentation-builder",
+        "./skills/portable-document-handler"
       ]
     },
     {
@@ -27,18 +27,18 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/algorithmic-art",
-        "./skills/brand-guidelines",
-        "./skills/canvas-design",
-        "./skills/doc-coauthoring",
-        "./skills/frontend-design",
-        "./skills/internal-comms",
-        "./skills/mcp-builder",
-        "./skills/skill-creator",
-        "./skills/slack-gif-creator",
-        "./skills/theme-factory",
-        "./skills/web-artifacts-builder",
-        "./skills/webapp-testing"
+        "./skills/pattern-generator",
+        "./skills/identity-framework",
+        "./skills/visual-composition",
+        "./skills/collaborative-document-creation",
+        "./skills/web-interface-architect",
+        "./skills/team-communication",
+        "./skills/protocol-implementation-framework",
+        "./skills/capability-architect",
+        "./skills/animated-message-composer",
+        "./skills/design-system-generator",
+        "./skills/interactive-component-creator",
+        "./skills/application-quality-assurance"
       ]
     }
   ]
